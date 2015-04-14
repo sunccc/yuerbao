@@ -57,7 +57,7 @@ public class AskFragment extends BaseFragment implements
 	public View onCreateView(LayoutInflater inflater, ViewGroup container,
 			Bundle savedInstanceState) {
 		// TODO Auto-generated method stub
-		return inflater.inflate(R.layout.activity_main_fragment_ask_circles,
+		return inflater.inflate(R.layout.activity_main_fragment_ask,
 				null);
 	}
 
