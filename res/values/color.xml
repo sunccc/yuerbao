@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="tab_text_normal">#696969</color>
+    <color name="tab_text_selected">#E3007B</color>
+    <color name="dialog_negative">#20B2AA</color>
+    <color name="black">#FF000000</color>
+        <color name="white">#FFFFFFFF</color>
+    <color name="nomalGray">#838B83</color>
+    <color name="dialog_negative_pressed">#20B2AA</color>
+    <color name="dialog_positive">#E3007B</color>
+    <color name="dialog_positive_pressed">#E3007B</color>
+   <color name="wangyibg">#f0f0f0</color>
+    <color name="coffee">#622f1b</color>
+    <color name="share_activity_background">#383838</color>
+</resources>

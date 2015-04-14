@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="save">保存</string>
+    <string name="app_name">育儿宝</string>
+    <string name="versionName">v1.0</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="loginTitle">登陆账户</string>
+    <string name="loginCancle">取消</string>
+    <string name="loginRegister">注册</string>
+    <string name="loginUser">账　号</string>
+    <string name="loginPwd">密　码</string>
+    <string name="loginForgetPwd">忘记密码？</string>
+    <string name="loginError">error</string>
+    <string name="loginBtnText">登录</string>
+    <string name="register_username">用户名</string>
+    <string name="register_username_hint">请输入用户名</string>
+    <string name="userpassword_rule2">密码</string>
+    <string name="register_password2">确认密码</string>
+    <string name="register_password_hint2">确认密码</string>
+
+    <!-- 我的状态 -->
+    <string name="status_huaiyun">我在怀孕中</string>
+    <string name="status_beiyun">我在备孕中</string>
+    <string name="status_chanhou">宝宝已出生</string>
+    <string name="title_activity_bind_status">我的状态</string>
+    <string name="title_activity_hc">预产期</string>
+    <string name="title_activity_hc_center">您的预产期是</string>
+    <string name="title_activity_by">月经周期第一天</string>
+    <string name="title_activity_by_center">月经周期第一天</string>
+    <string name="title_activity_bb">宝宝的出生日期</string>
+    <string name="title_activity_bb_center">宝宝的出生日期</string>
+    <string name="yuchang_dateEditText_hint">请输入您的预产期</string>
+    <string name="beiyun_dateEditText_hint">请输入您的月经周期第一天</string>
+    <string name="baobao_dateEditText_hint">请输入您宝宝的生日</string>
+    <string name="title_activity_ht">期望消息接收时间</string>
+    <string name="title_activity_ht_center">您期望的消息接收时间</string>
+    <string name="hopetime_timeEditText_hint">消息接收时间(整点)</string>
+    <string name="btn_next">下一步</string>
+
+    <!-- 自定义ListView -->
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_last_time">更新</string>
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="xlistview_header_hint_loading">正在加载...</string>
+    <string name="xlistview_footer_hint_normal">上滑查看更多</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+
+</resources>

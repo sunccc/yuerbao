@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="80dip"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:drawableTop="@drawable/page_now"
+        android:gravity="center_horizontal"
+        android:text="跟读" />
+
+    <TextView
+        android:id="@+id/TextView04"
+        android:layout_width="80dip"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:drawableTop="@drawable/default_nor_avatar"
+        android:gravity="center_horizontal"
+        android:text="我" />
+
+    <TextView
+        android:id="@+id/TextView03"
+        android:layout_width="80dip"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_toLeftOf="@+id/TextView04"
+        android:drawableTop="@drawable/page_now"
+        android:gravity="center_horizontal"
+        android:text="购物" />
+
+    <TextView
+        android:id="@+id/TextView02"
+        android:layout_width="80dip"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_toLeftOf="@+id/TextView03"
+        android:drawableTop="@drawable/page_now"
+        android:gravity="center_horizontal"
+        android:text="问答" />
+
+</RelativeLayout>
